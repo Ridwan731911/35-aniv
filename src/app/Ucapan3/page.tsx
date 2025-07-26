@@ -92,7 +92,7 @@ export default function HalamanKedua() {
                 <motion.button
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  onClick={() => (window.location.href = "/Moment")}
+                  onClick={() => (window.location.href = "/MomentPage")}
                   className="mt-4 px-8 py-3 bg-gradient-to-r from-pink-500 to-pink-600 hover:from-pink-600 hover:to-pink-700 text-white text-base rounded-full font-semibold transition-all shadow-md"
                 >
                   Klik Moment
